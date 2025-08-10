@@ -72,7 +72,3 @@ Made by **`._rayzz`**
 ## License
 
 This project is licensed under the MIT License – feel free to use, modify, and share.
-
----
-
-Do you want me to also make this **GitHub-flavored with badges and a quick start image** so it pops visually on your repo page? That would make it stand out a lot more.
